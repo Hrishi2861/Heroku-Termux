@@ -10,7 +10,7 @@
 
 ## Installation:
 Just paste the below code in your termux and Done!. Everything will be automatically installed. <br>
-```sh -c "$(curl -fsSL https://raw.githubusercontent.com/SKGHD/Termux-heroku-cli/master/install.sh)"```
+```sh -c "$(curl -fsSL https://raw.githubusercontent.com/Hrishi2861/Heroku-Termux/refs/heads/master/install.sh)"```
 
 ## Getting started:
 1. Login using ```heroku login -i```
